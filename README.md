@@ -2,4 +2,4 @@
 
 ## ceci est mon premier paragraphe
 
-## ceci est un article
+## ceci est un article.
